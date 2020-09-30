@@ -4,3 +4,7 @@ and Security Conference. Astra was called upon to make challenges for said CTF e
 1. Hold the pickle - they can't stop us all
 2. The Matrix - Taren
 3. Chopdown && Wannalie - elbee
+
+### Cryptography challenges 
+1.  ARE u SuRE
+2.  BiG BrAiN
